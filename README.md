@@ -1,4 +1,4 @@
-# SmashvilleAuto
+# ArchAuto
 # This is a simple Insurance website written using Backbone.js, Bootstrap in the Front-end and Java APIs and MSSQL database on the back-end.
 # Main functionalities of this application include the following:
 
